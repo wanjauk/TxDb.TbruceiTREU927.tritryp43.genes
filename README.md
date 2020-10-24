@@ -13,7 +13,7 @@ You can install the latest version from Github using:
 
 ``` r
 library('devtools')
-install_github('elsayed-lab/TxDb.TbruceiTREU927.tritryp43.genes')
+install_github('wanjauk/TxDb.TbruceiTREU927.tritryp43.genes')
 ```
 
 Usage
